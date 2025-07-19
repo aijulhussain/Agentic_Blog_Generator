@@ -1,3 +1,8 @@
+### APP link: https://aijulhussain-agentic-blog-generator-streamlit-app-0fyaea.streamlit.app/
+
+
+
+
 Built with:
 - 🧠 **Groq LLM** (LLaMA 3.1 8B)
 - ⚙️ **FastAPI** for backend API
